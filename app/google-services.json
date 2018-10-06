@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "685150331455",
+    "firebase_url": "https://cypher-2f177.firebaseio.com",
+    "project_id": "cypher-2f177",
+    "storage_bucket": "cypher-2f177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685150331455:android:7e9899749edb63d0",
+        "android_client_info": {
+          "package_name": "com.esiea.tim.cypher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685150331455-2r5cenbcdaq0ufv8tpb0ncjl80l7k9cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esiea.tim.cypher",
+            "certificate_hash": "3d52f3ef9f2d3ad29dad662662fd3354c57806b4"
+          }
+        },
+        {
+          "client_id": "685150331455-kfjvbvhg5u9054ss3ueebjm7bvji4t50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwZ_HnsCn5Q8gV852wU2v512Gkf4TVqCA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685150331455-kfjvbvhg5u9054ss3ueebjm7bvji4t50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
